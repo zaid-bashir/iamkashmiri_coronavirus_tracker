@@ -5,6 +5,15 @@ A Flutter App to get the real time updates about Coronavirus deaths,Recoveries,t
 
 This is my intermediate Project related to Covid 19 disease tracking where we can get the real time updates about Coronavirus deaths,Recoveries,today deaths,today Recoveries etc.Also to get regional data of all Countries of the world.
 
+My Github Repo Link:
+https://github.com/zaid-bashir
+
+My LinkedIn Profile Link:
+https://www.linkedin.com/in/zaid-bashir-714956156/
+
+My LinkedIn Comapany Page:
+https://www.linkedin.com/company/74087323/admin/
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
