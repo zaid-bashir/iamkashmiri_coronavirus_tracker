@@ -161,26 +161,35 @@ class _CountryPageState extends State<CountryPage> {
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
                               Text(
-                                'CONFIRMED' +
+                                'Confirmed : ' +
                                     countryData[index]['cases'].toString(),
                                 style: TextStyle(
                                     fontWeight: FontWeight.bold,
                                     color: Colors.red),
                               ),
+                              SizedBox(
+                                height: 5,
+                              ),
                               Text(
-                                  'ACTIVE' +
+                                  'Active : ' +
                                       countryData[index]['cases'].toString(),
                                   style: TextStyle(
                                       fontWeight: FontWeight.bold,
                                       color: Colors.blue)),
+                              SizedBox(
+                                height: 5,
+                              ),
                               Text(
-                                  'RECOVERED' +
+                                  'Recovered : ' +
                                       countryData[index]['cases'].toString(),
                                   style: TextStyle(
                                       fontWeight: FontWeight.bold,
                                       color: Colors.green)),
+                              SizedBox(
+                                height: 5,
+                              ),
                               Text(
-                                  'DEATHS' +
+                                  'Deaths : ' +
                                       countryData[index]['cases'].toString(),
                                   style: TextStyle(
                                       fontWeight: FontWeight.bold,
